@@ -1,0 +1,11 @@
+{
+  "name": "planetjones-out-of-ten",
+  "version": "1.0.0",
+  "description": "Rate almost anything out of ten",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "planetjones.co.uk",
+  "license": "ISC"
+}
